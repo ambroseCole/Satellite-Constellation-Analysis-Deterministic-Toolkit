@@ -1,6 +1,6 @@
 # Satellite Constellation Analysis Deterministic Toolkit (SCADT)
 
-> An end-to-end simulation pipeline for analyzing collision avoidance maneuvers and their effects on mega-constellation geometry.
+> An end-to-end simulation pipeline for analyzing collision avoidance maneuvers and their effects on satellite constellation geometry.
 
 ---
 
