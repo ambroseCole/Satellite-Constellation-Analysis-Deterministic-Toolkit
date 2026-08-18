@@ -1,0 +1,52 @@
+Loaded 0 baseline pairs
+Loaded 1392 maneuvers
+Simulation window: 0s to 2591025s (719.7 hrs)
+Screening 86368 timesteps...
+  Step 0/86368, events: 0
+  Step 2000/86368, events: 0
+  Step 4000/86368, events: 0
+  Step 6000/86368, events: 0
+  Step 8000/86368, events: 0
+  Step 10000/86368, events: 0
+  Step 12000/86368, events: 0
+  Step 14000/86368, events: 0
+  Step 16000/86368, events: 0
+  Step 18000/86368, events: 0
+  Step 20000/86368, events: 0
+  Step 22000/86368, events: 0
+  Step 24000/86368, events: 0
+  Step 26000/86368, events: 0
+  Step 28000/86368, events: 0
+  Step 30000/86368, events: 0
+  Step 32000/86368, events: 0
+  Step 34000/86368, events: 0
+  Step 36000/86368, events: 0
+  Step 38000/86368, events: 0
+  Step 40000/86368, events: 0
+  Step 42000/86368, events: 0
+  Step 44000/86368, events: 0
+  Step 46000/86368, events: 0
+  Step 48000/86368, events: 0
+  Step 50000/86368, events: 0
+  Step 52000/86368, events: 0
+  Step 54000/86368, events: 0
+  Step 56000/86368, events: 0
+  Step 58000/86368, events: 0
+  Step 60000/86368, events: 0
+  Step 62000/86368, events: 0
+  Step 64000/86368, events: 0
+  Step 66000/86368, events: 0
+  Step 68000/86368, events: 0
+  Step 70000/86368, events: 0
+  Step 72000/86368, events: 0
+  Step 74000/86368, events: 0
+  Step 76000/86368, events: 0
+  Step 78000/86368, events: 0
+  Step 80000/86368, events: 0
+  Step 82000/86368, events: 0
+  Step 84000/86368, events: 0
+  Step 86000/86368, events: 0
+
+Total degraded crossing events: 0
+Wrote 0 CAM effect summaries to results_prop_perp_1000.csv
+Wrote 0 raw events to results_prop_perp_1000_raw.csv

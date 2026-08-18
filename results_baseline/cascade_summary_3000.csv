@@ -1,0 +1,8 @@
+metric,value
+num_sats,3000
+total_cams_with_effects,1429
+mean_crossings_per_cam,1.25
+max_crossings_per_cam,3
+total_degraded_crossings,1784
+closest_approach_km,0.059926
+worst_degradation_km,973.359432

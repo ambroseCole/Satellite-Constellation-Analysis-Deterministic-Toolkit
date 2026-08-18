@@ -1,0 +1,52 @@
+Loaded 7920 baseline pairs
+Loaded 2235 maneuvers
+Simulation window: 0s to 2591444s (719.8 hrs)
+Screening 86382 timesteps...
+  Step 0/86382, events: 0
+  Step 2000/86382, events: 7
+  Step 4000/86382, events: 20
+  Step 6000/86382, events: 26
+  Step 8000/86382, events: 34
+  Step 10000/86382, events: 44
+  Step 12000/86382, events: 63
+  Step 14000/86382, events: 72
+  Step 16000/86382, events: 84
+  Step 18000/86382, events: 99
+  Step 20000/86382, events: 109
+  Step 22000/86382, events: 123
+  Step 24000/86382, events: 137
+  Step 26000/86382, events: 152
+  Step 28000/86382, events: 158
+  Step 30000/86382, events: 174
+  Step 32000/86382, events: 186
+  Step 34000/86382, events: 199
+  Step 36000/86382, events: 206
+  Step 38000/86382, events: 220
+  Step 40000/86382, events: 235
+  Step 42000/86382, events: 247
+  Step 44000/86382, events: 267
+  Step 46000/86382, events: 286
+  Step 48000/86382, events: 295
+  Step 50000/86382, events: 304
+  Step 52000/86382, events: 316
+  Step 54000/86382, events: 331
+  Step 56000/86382, events: 340
+  Step 58000/86382, events: 354
+  Step 60000/86382, events: 375
+  Step 62000/86382, events: 387
+  Step 64000/86382, events: 393
+  Step 66000/86382, events: 407
+  Step 68000/86382, events: 424
+  Step 70000/86382, events: 438
+  Step 72000/86382, events: 449
+  Step 74000/86382, events: 466
+  Step 76000/86382, events: 480
+  Step 78000/86382, events: 492
+  Step 80000/86382, events: 503
+  Step 82000/86382, events: 514
+  Step 84000/86382, events: 523
+  Step 86000/86382, events: 533
+
+Total degraded crossing events: 535
+Wrote 477 CAM effect summaries to results_prop_perp_1584.csv
+Wrote 535 raw events to results_prop_perp_1584_raw.csv
