@@ -37,8 +37,8 @@ compare_satsat.py     →  cross-configuration summary
 ## Installation
 
 ```bash
-git clone https://github.com/ambroseCole/Constellation-Analysis-Toolkit.git
-cd Constellation-Analysis-Toolkit
+git clone https://github.com/ambroseCole/Satellite-Constellation-Analysis-Deterministic-Toolkit.git
+cd Satellite-Constellation-Analysis-Deterministic-Toolkit
 pip install numpy scipy sgp4 spacetrack
 ```
 
